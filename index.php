@@ -29,6 +29,6 @@
 
 }
 ?>
-<?php <h1> This line added by Erkan</h2> ?>
+<?php  This line added by Erkan ?>
 </body>
 </html>
