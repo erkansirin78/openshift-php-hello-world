@@ -29,6 +29,6 @@
 
 }
 ?>
-<?php  This line added by Erkan ?>
+<?php print("This line added by Erkan") ?>
 </body>
 </html>
